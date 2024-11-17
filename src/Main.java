@@ -176,7 +176,7 @@ public class Main {
     }
 
     /**
-     * Выполняет поиск по выбранному критерию и подсвечивает все строки с совпадениями.
+     * Выполняет пoиск по выбранному критерию и подсвечивает все строки с совпадениями.
      */
     private void performSearch() {
         String searchText = searchField.getText().trim().toLowerCase();
